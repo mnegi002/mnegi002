@@ -1,3 +1,4 @@
+# Mayank Negi (@mnegi002)
 # 💫 About Me:
 I'm currrently working on a linkedin advocacy app <br>Tech stack using for it - Python (flask) , Postgres , Typescript, Vite  <br> I have an experience of 2.6 yrs as a full stack developer  Tech stack include MERN , Next , Ts, Js Python <br>
 
