@@ -1,6 +1,6 @@
 # Mayank Negi (@mnegi002)
 # 💫 About Me:
-I'm currently building a linkedin advocacy app that generates post based on user thoughts through AI <br>Tech stack using for it - Python (flask) , Postgres , Typescript, Vite  <br> I have an experience of 2.6 yrs as a full stack developer experienced in MERN , Next , Ts, Js Python <br>
+I'm currently building a linkedin advocacy app that generates post based on user thoughts through AI <br>Tech stack using for it - Python (flask) , Postgres , Typescript, React  <br> I have an experience of 2.6 yrs as a full stack developer experienced in MERN , Next , Ts, Js Python <br>
 
 
 ## 🌐 Socials:
